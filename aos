@@ -1,0 +1,27 @@
+const arweaveInstance = new Arweave(memeTokenContractSource); 
+const key = 'yC5AwDHAjGUwbNDBag3IidkeqYne7mju62Uccu1K1g7GBu8x9DrLRncAmG2CMcVevtFL8DRAmJs9peez-yxY5COqphrma7fxlqhV7J3GVHoftfZ8HcFgc5o6t-QEDXkm2VBAHHDyV97UieqgfsdHcHgPGJWYwdZjJzBNkEVTdyMjkAzc4jW__o4jMYZraKqonb_KG97qzLuLDkFnC3QMJTW8l3qmmOixQu_KsP0Owtho-RYXWNCvwFyimixRoCQDrWflTNhEx0rf0cZEQL7aA005TIR5s8XJJF18XM4WYOFzUlEGY19mSYVTJG8poZEcOAFvH3dxB51qCnrAwoi2ADY5mr8N1nSztp48a8_FpNiV1ZaIb8dlAakf6RtBUZLIMQ4kX4pTQi-cGlTX8aqDrJXeiv1cO7FuZ-MxnLj9uesyl8y_jx1Jj1ofD-zWY1T6KqzdIJ6q4r9mXn16A2b0tt7w7DfXA4lhCeC30i-E1IgDe9KIlxwXMMHHitZD7znY-L60vKkRQ6lViPxMfOFbczekxKwoqZk3VsSWjIt0RsNqEpnQZMPGC8bLQEEFlG28UvdkjRrVypb7EAMXIGWMPjtsz1waBEMDVi77ZO5MUM9hkII_bQ5DCubLbEvxMmxL7WAU-TDLBCYmmA_cUm-6XhosWDvliurVmyZiqLD9kZs","e":"AQAB","d":"A04xjIWQdTZbM9jIm3yJx1jvTC5gy4ADvfL9TW_Z-1SNdDeGlCP_ukn5wl_rNUYvN9MTQBlPcxWmfB2qLPzA-ldqbclmQk4XGP1DmfTK_cHHJ0U1gcpGfPIwLlwqAvecABz2n2GavCpg87wM6rsAqidEBzcP1Czllek9cU3rwGezTSF2k5epSXCbEn9yjkJkfA0FhIChpkAh3i-PSN2hhmBvnPK4sIVbHqIAr1EmaWo9utXgtyXkWQv5NWGDoYjRX2TRS6ZgkF04pT6dtDyn3e5sV_VHYIQPZmB9eWIqdW6-QumKmPZ4z8BPV1Esl084ROZ6fsMFT0e2pLX9MS56ZC6x0FXQZ6jEwNUxrhf4qxJ8q7nvkv1p5BHhyEQD8E3fG2HtMyTydAGdddQ7RTXOHblWn4s8eqNKwk1asX6U-RQUgOD7Jcs2K-N60V6SFoesHRMtmY0BIlGb5N-3hQgW3Mj1ECh49swxHMw_QWSs55IP9Dv4LX8hcgbKUpD9t8e09pPJ3Y8KBMMGd85eyam75QRYCDM1A5g6GAItM_Y5ATiTIWTaVTWxs7nH0Ai4Ge3eoNTJZRIuWVNruyZ_Npx1z-hWqDUDdjELtOhgPeePn7QQIO2a_mQTRjh1IGYW17shSka4n9wN-tHOL-oaGpgiiKvBCWj1KSk1zueYkqMBU3U","p":"4xCNLz9oyoeyNqONEh2Rdb46QfqbSGBkppsRWmJ-PDm2FQdri5hzrPsjyJWx9iADLOBRWfwDfr3le3KnvjBUdEEcG_AHo6qZEYEMRoEGcdyZ5fkF2ah-ymwRCJUKYhaQtIRzSsmEfxyWvW2KuWU3xV9nWgfUCre_mT9S3OsjNL7grtCx8E84OWgpGdS-gpUKZnT2LdYQ0lUaBBG6pucSjrYCahnHG6hPCp5T-8X5JZYB5CyhLXWZLSuOLR7lAkSwMlpEbGSckVXMzwKya4_EgFRLp7y52EJDqbZ61d4TAI-zulCze_wcPAqm6HWk1RfTqD8VPzJYZI3tGCcTtEla1Q","q":"4bCs0R6hHY5nOK0HMlaR1Njlle6P73Pre-kSJ0DsYTkPhsFOzN7u0wdKIJlvlzcF_uQ7K27qipjKm96c_gDt1JAv1i5nkowNgoa1iBpbK24iqrz6aipA7XnGPCUFumpDYmgbrCqRpvjKqOVaIHT0BTAiNZ21oQ8NblB2lsBY3wljd0g5CBs8g3fXx_1u1zYMBzrL38Zw5gam02TP0huMiwtct-FXCVMj9ZJ90-ctDPS_sCnhOX0rl9kSNAkUyX4dHr31-t2wwCvzageIzdagLN5ugxRsYjN9iLMeg8cSLgbh_5rk6O3s5MjveBCF4kh02YgNkJL_LnuyTAUySF-Srw","dp":"OyxaDsEQlw8r409V-S2ZdbzAQ-eCRidQs5ZfvFVEnn9Ps0U-wp9VLfQ4zBIu0XxgN3ax3KhvZL0qK7SigE7qA23gXGt-IinYQBaIU2tWeZ_Kv4LZAnMFr8zf14O3s_47cb--p_PCQrn5kp4Uc-Ir2ZTWQ0EdAjoGhXJaLtZcU2eW-BfM91o9xcAeTewCRdd_YVoDucg6lAW3hO313X8EeAp4sJvNJqkDCDpgmpFqL2BbV9JFoqot4_ag06NkfOXXoRejEzhZEQryF9SVGLDbvbG6EZl-ORxzs6upcUixXQkWBmz3iU0XMpJ4EsZt0VanQwZFjDWbkYDnE89DNE2VjQ","dq":"lgWHGwstNiRu4PHDkuaQ0dfL5TpLW3TG1_s6IfW6K3Zup7jf1LdsMcLqt3jHANGGnsS_wENejPq705jK6t1bOq0N32XBW1zVrio1iV9bsybmzHAKVX_44OLNrzU89YmleUiS_ILfhwpiTJsIqgKUIs64LsPC9Gi5GNdLvTHm4XuwLp5HqufP9eQ3_6yrfUtj-3pOA1Y5ve41_tdIffXqGpNW8rRL0tr9UEQseCt3euFGeqecG0blL28P9p8Cvl2ipcjINhYfY97TU2vmuE0u9CR3eZKd6Tko_TFz20z8_LN-jxY7i8p8aihXZow1MxHO-rrBqZTNI-z9vCLIJevB6Q","qi":"UlZKQ5WZ4CTLCIplTFNutxLXjbK7NGDf7mA6N4d6H9sS4QNYdS6A2EYZhpLx5p5MvdPQEFIHBtOvL5Mz2sIUrff2vpzFRxSWtrxlIM8z8scnwVGYqp7ci1gpz5ahSj3ihn2AkTUKZR0bMhSoC2bDZ3dBvvmncvk2oSyYN8xLeP5VHUA_89C7qar0tujwMGIcrpvZM8at6ZdByk88x4kEucxN9OC0W9gKQYrdWw-xnI2l7gY3u5Jmiu1wQhlyu1G3uXJElpduPnx2mcxjhlOvPDj4gEKLTj7JLqkjXKjOYEKFopzBztw8y7kyiRM--HVKDDh2ozOmMo9Ub_WW0ldGWg';
+
+const memeTokenContractSource = 
+export function handle(state, action) {
+    if (action.input.function === 'mint') {
+        const { owner, memeUrl } = action.input;
+        const newToken = {
+            owner: owner,
+            memeUrl: memeUrl
+        };
+        state.tokens.push(newToken);
+        return { state };
+    }
+    return { state };
+}
+`;
+
+const createMemeTokenContract = async (arweave) => {
+    const tx = await arweave.createTransaction({ data: memeTokenContractSource }, key);
+    tx.addTag('Content-Type', 'application/javascript');
+    tx.addTag('Token-Name', 'PCN-ARNS');
+    await arweave.transactions.sign(tx, key);
+    await arweave.transactions.post(tx);
+    console.log('Contract token "PCN-ARNS" successfully deployed with transaction ID:', tx.id);
+
+    sc(arweaveInstance);
